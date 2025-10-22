@@ -1,4 +1,4 @@
-# CRM System - Customer Relationship Management
+o# CRM System - Customer Relationship Management
 
 Professional CRM system built with Spring Boot, PostgreSQL, and Docker.
 
